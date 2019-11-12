@@ -1,4 +1,4 @@
-Contributions:
+# Contributions:
 
 **Explore the Data**: Each member did this individually
 
