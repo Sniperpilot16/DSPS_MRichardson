@@ -6,6 +6,6 @@
 
 **K-Means Clustering**: Shea Fitzgerald, Victor Ramierz, Liam Kelley
 
-**4a.DBSCAN**: All members worked on this one collectively
+**4a.DBSCAN**: Elliott Jones, Shea Fitzgerald, Victor Ramirez, Allie DeAbreu, Liam Kelley, Michael Richardson, 
 
 **4b.Agglomerative Clustering**: Shea Fitzgerald, Michael Richardson 
